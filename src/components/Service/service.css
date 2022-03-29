@@ -1,0 +1,18 @@
+/* styles for service component */
+.course-tag {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+.btn-details:hover {
+  color: blue;
+}
+
+.service-hover-effects:hover img {
+  transform: scale(1.05);
+  transition: 0.5s ease-out;
+}
+
+.card-overflow {
+  overflow: hidden;
+}

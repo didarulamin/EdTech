@@ -1,0 +1,58 @@
+/* styles for home component */
+
+.hero-section {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-image: url(../../assets/slider-4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  background-color: #edeef3;
+  color: #fafafb;
+
+  height: 600px;
+  position: relative;
+}
+
+.overly {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 3, 32, 0.66);
+}
+.hero-text {
+  width: 800px;
+  padding: 30px;
+}
+.popular-courses {
+  display: grid;
+  grid-template-columns: 400px 400px 400px;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+}
+
+.popular-course {
+  text-align: center;
+}
+
+.popular-course:hover {
+  background-color: #6610f2;
+  color: white;
+}
+
+.courses-heading {
+  display: grid;
+  grid-template-columns: 400px 400px 400px;
+  justify-content: center;
+  text-align: left;
+  margin-top: 10px;
+}
+.service-card {
+  display: grid;
+  grid-template-columns: 400px 400px;
+  justify-content: center;
+}

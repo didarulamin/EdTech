@@ -1,0 +1,18 @@
+/* styles for about component */
+.achieve-goal-two {
+  background-image: url("../../assets/why-shape-green.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.choose-me-two img {
+  width: 500px;
+  border-radius: 20px;
+}
+
+.choose-me-one {
+  width: 500px;
+  margin-left: 100px;
+}
+ul {
+  list-style: none;
+}
