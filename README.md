@@ -1,8 +1,7 @@
 # Educare - a professional training service webapp for both online and offline learner
 
-See Demo [Live site link of Educare App](https://educational-services-website-didarulamin.netlify.app/).
 
-[firebase hosting link](https://fir-authentication-f690c.web.app/)
+[live site link](https://fir-authentication-f690c.web.app/)
 
 ## App feature
 
